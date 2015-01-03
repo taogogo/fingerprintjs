@@ -1,3 +1,10 @@
+
+#HSTS Super Cookies
+
+http://www.radicalresearch.co.uk/lab/hstssupercookies/
+
+#fingerprintjs
+
 <p align="center">
 <h2>fingerprintjs</h2>
 <br/>
